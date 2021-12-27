@@ -1,6 +1,11 @@
 # Angular Interview Questions and Answers
 
 
+## Repository
+
+[PranamBhat/Angular-Interview-Questions](https://github.com/PranamBhat/Angular-Interview-Questions)
+
+
 ## From Developer
 
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-Pranam%20Bhat-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
